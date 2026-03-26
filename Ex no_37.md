@@ -1,4 +1,4 @@
-# # Hackerrank problem - 2
+# Hackerrank problem - 2
 Create an array of size n dynamically, and read the values from stdin. Iterate the array calculating the sum of all elements. Print the sum and free the memory where the array is stored. While it is true that you can sum the elements as they are read, without first storing them to an array, but you will not get the experience working with an array. Efficiency will be required later. 
 # Input Format 
 The first line contains an integer, n.The next line contains space-separated integers  
