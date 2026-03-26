@@ -114,6 +114,7 @@ int main() {
     return 0;
 }
 ```
+
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/06d2e094-57bf-47ad-98d2-8d8638cbd4aa)
